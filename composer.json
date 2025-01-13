@@ -7,7 +7,7 @@
     "require": {
         "php": ">=8.1",
         "cakephp/authentication": "^3.2.1",
-        "cakephp/authorization": "^3.3.1",
+        "cakephp/authorization": "^3.4.0",
         "cakephp/cakephp": "5.1.4",
         "cakephp/migrations": "^4.5.0",
         "cakephp/plugin-installer": "^2.0.1",
@@ -18,7 +18,7 @@
         "cakephp/cakephp-codesniffer": "^5.1.4",
         "cakephp/debug_kit": "^5.1.2",
         "josegonzalez/dotenv": "^4.0",
-        "phpunit/phpunit": "^11.5.2"
+        "phpunit/phpunit": "^11.5.3"
     },
     "suggest": {
         "cakephp/repl": "Console tools for a REPL interface for CakePHP applications.",
